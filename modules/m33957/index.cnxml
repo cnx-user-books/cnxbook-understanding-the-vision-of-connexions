@@ -1,0 +1,44 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Why You Should Share Your Knowledge with the World using Connexions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33957</md:content-id>
+  <md:title>Why You Should Share Your Knowledge with the World using Connexions</md:title>
+  <md:abstract>An overview of the Connexions Project and why you should consider being part of the solution by creating quality educational materials available free to the public.</md:abstract>
+  <md:uuid>9aed594f-ac10-40fc-a2d9-b2005c27838a</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m33937/latest/" strength="3">Why You Should Create a Personal Connexions Account</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1169628946593">
+      <title>Sharing Knowledge</title>
+      <para id="id1169619999879">“Connexions is all about sharing knowledge.” <footnote id="id1028740">Richard Baraniuk – Filmed presentation ,Feb 2006 at TED Ideas Worth Sharing conference</footnote> Appropriate words from one of the founders of the Connexions Project at Rice University located in Houston, Texas, USA. As an electrical and computer engineering professor at Rice University, Dr. Richard Baraniuk understood that he would never get rich publishing a textbook in his area of expertise. He was more concerned at being able to <emphasis effect="bold">share his knowledge</emphasis> in what can be described as a quick change field. Most of us understand how quickly the electrical (electronics) and computer field changes almost overnight.</para>
+      <para id="id1169620563573">From the Connexions web site: “Connexions is a web-based document creation and management system for education and research materials. There are two parts to Connexions: a Content Commons that contains these materials and the software tools necessary to create, manage, and access these materials.</para>
+      <para id="id1169630267717">From its inception, Connexions was designed to allow the collaborative development and free availability of material. Instructors and authors can modify this material for any educational purpose. Connexions offers Free/Open Source software tools to help students, instructors, and authors manage these information assets for sharing and advancing knowledge to benefit the global educational community.” </para>
+      <para id="id1169628135389">I like to refer to Connexions as an Internet web site with the <emphasis effect="bold">software tools to allow the creation and use of a repository of instructional and research materials</emphasis>.</para>
+    </section>
+    <section id="id1169626056326">
+      <title>Avoidance of Copyright Infringement</title>
+      <para id="id8114150">The creators of ideas, art, literature, music, etc. usually have an immediate “copyright” to their creative genius. The copyright laws are designed to protect the creator (or author) of the materials from having others make money from their creations as well as to protect their works from copycats (call a derivative work). The laws are centered in the protection of the creative work by allowing its originator to control their creation.</para>
+      <para id="id3743464">Some authors (or creators) are <emphasis effect="bold">willing to share</emphasis> their creative works with certain limitations. This can be accomplished through the use of one of the <emphasis effect="bold">Creative Commons Attribution Licenses</emphasis> which have an international recognition. The most liberal of these licenses allows others to freely use your creative works. The license conveys the ability for others to copy, adapt, distribute and transmit the work as long as they attribute (give you the original author credit for) the work in the manner specified by you, the author or licensor.</para>
+      <para id="id1169631531512">All contributed content to the Connexions repository is made using this most liberal of license arrangements. Connexions uses the <link url="http://creativecommons.org/licenses/by/3.0/"><emphasis effect="underline">Creative Commons Attribution (CC-BY) License</emphasis></link>. The concept is to allow the greatest latitude in letting others use and improve on your works, that is your knowledge, your creative ideas. This philosophy of open sharing was re-confirmed at the Connexions Consortium’s 1<sup>st</sup> Annual Meeting on February 1, 2010. To help emphasize the ability to remix or reuse existing content, the term “<emphasis effect="bold">Frictionless Reuse</emphasis>” was coined by the President of the Connexions Consortium Board of Directors, Brad Wheeler<footnote id="id1169627803460">Dr. Bradley C. Wheller – Biography at: <link url="http://ovpit.iu.edu/bios/bwheeler.html">http://ovpit.iu.edu/bios/bwheeler.html</link></footnote>. Thus, users of the Connexions repository may become authors and freely use or improve (change) existing materials <emphasis effect="bold">without worrying about copyright infringement</emphasis>. </para>
+    </section>
+    <section id="id1169629951585">
+      <title>Why You Should Contribute Your Materials to the Connexions Repository</title>
+      <para id="id1169626845827">Many reasons, but some of the best are:</para>
+      <list id="id1169630580525" list-type="bulleted">
+        <item>Your <emphasis effect="bold">desire to share your knowledge</emphasis> and ideas with the larger community of the world. Not everything in this world is driven by a profit or monetary incentive. Many desire to be simple positive contributors to society. Contributing your educational materials to Connexions allows other to build on your efforts.</item>
+        <item>You can <emphasis effect="bold">work collaboratively</emphasis> with other authors in your field of expertise. This is a great opportunity to work with others in developing quality educational materials.</item>
+        <item>The Connexions Project has an ongoing commitment from many Open Educational Resource (OER) players to make <emphasis effect="bold">Connexions a permanent part of the Internet landscape</emphasis>. Connexions is supported by the <link url="http://www.hewlett.org/">William and Flora Hewlett Foundation</link>, the Maxfield Foundation, and the <link url="http://cnxconsortium.org/">Connexions Consortium</link>, of which Rice University is a major contributor, and <link url="http://cnx.org/aboutus/people/sponsors">other sponsors</link>. Simply put – Connexions should be here tomorrow and the day after.</item>
+        <item>The materials in the Connexions repository have “Google Karma”. To quote myself, “Connexions has connections”. Many Internet search engines, not just Google, have already recognized the importance and quality of the Connexions repository. This helps the <emphasis effect="bold">general Internet population to find your quality educational materials</emphasis>.</item>
+        <item>Open-source learning is the <emphasis effect="bold">wave of the future</emphasis>. If you are not convinced, see the approximately 18 minute recorded conference presentation by Dr. Richard Baraniuk at: <link url="http://www.ted.com/talks/richard_baraniuk_on_open_source_learning.html">http://www.ted.com/talks/richard_baraniuk_on_open_source_learning.html</link></item>
+      </list>
+    </section>
+  </content>
+</document>

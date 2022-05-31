@@ -1,0 +1,66 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Creating a Connexions Account</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33888</md:content-id>
+  <md:title>Creating a Connexions Account</md:title>
+  <md:abstract>Some pointers on creating a good Member Profile as you create your Connexions account.  How to modify your Member Profile.</md:abstract>
+  <md:uuid>be95961e-ca44-4378-b5cb-7a3226d1f4a2</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="example">
+      <link url="http://cnx.org/member_profile/kbusbee" strength="2">Member Profile - Busbee</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id6403524">
+      <title>Create an Account</title>
+      <para id="id14450251">From the Connexions home page at: <link url="http://cnx.org/">http://cnx.org</link> select the “Get an account” under Step 1. Follow the process as directed. When prompted for “Member Profile” information you should complete fields as appropriate. The following will help you to complete certain areas.</para>
+      <section id="id20106888">
+        <title>Affiliation – Institution</title>
+        <para id="id20233100">You should review how others are typing their “Affiliation” and type yours the same. For example: authors from Houston Community College <emphasis effect="underline">could</emphasis> use: HCC or Houston CC or Houston Community College. However, they <emphasis effect="underline">should</emphasis> all use: Houston Community College. This is not super important for the profile, but you will want to type the “Institution” field in a collection consistently so collections created by authors from the same institution will all show up together when users do an institution search. The following two slides show you how to browse to the “Institutions” search and review what authors from your institution are using for their affiliation/institution name. </para>
+        <figure id="id10279648">
+          <media id="id10279648_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics1-b7ef.jpg" id="id10279648__onlineimage" height="450" width="600"/>
+          </media>
+          <caption>Browsing</caption>
+        </figure>
+        <para id="id19700901">
+          <figure id="id19967253">
+            <media id="id19967253_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics2-91aa.jpg" id="id19967253__onlineimage" height="450" width="600"/>
+            </media>
+            <caption>Reviewing institution names</caption>
+          </figure>
+        </para>
+        <note id="id20226803" type="Note">You could be the first author and might need to decide what to use for your institution.</note>
+      </section>
+      <section id="id21246610">
+        <title>Biography – Short Biographical Sketch</title>
+        <para id="id19626406">Prepare a short biography about yourself. Information should include your current job, past employment, educational and professional attainments, etc.</para>
+      </section>
+      <section id="id13557970">
+        <title>Portrait – Picture</title>
+        <para id="id19967888">Using your picture processing skills; modify a picture of yourself cropping it square. It should be no greater than 150 by 150 pixels on each side. Usually this file is stored in a .jpg format.</para>
+        <note id="id15498305" type="Note">The Connexions web site will shrink your picture to fit its allocated space; thus, to avoid distortion, you should make sure to crop the picture square. </note>
+      </section>
+      <section id="id22434016">
+        <title>Example</title>
+        <para id="id19775540">A link is provided (in the box at the upper right corner of this module’s page) to my “Member Profile” (for Kenneth Leroy Busbee) at Connexions.</para>
+      </section>
+    </section>
+    <section id="id19948228">
+      <title>Editing your Member Profile</title>
+      <para id="id21299563">You can change your “Member Profile” at any time. This slide shows how to get to the page for changing it.</para>
+      <figure id="id21275834">
+        <media id="id21275834_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics3.jpg" id="id21275834__onlineimage" height="450" width="600"/>
+        </media>
+        <caption>Editing an Member Profile </caption>
+      </figure>
+    </section>
+  </content>
+</document>

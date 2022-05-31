@@ -1,0 +1,285 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Introduction to Connexions</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m10884</md:content-id>
+  <md:title>Introduction to Connexions</md:title>
+  <md:abstract>An overview of Connexions, the Connexions home page, and navigation tools.</md:abstract>
+  <md:uuid>5a724a3b-92bd-4d00-a906-e84b10556ac8</md:uuid>
+</metadata>
+
+<content>
+
+    <section id="overview1">
+      <title>Overview</title>
+
+      <para id="overviewpara">Connexions is a web-based document creation and management system 
+        for educational and research materials. There are two parts to 
+        Connexions: a content <term><link url="/content">repository</link></term> that contains these materials, and 
+        the software tools necessary to create, manage, and access these 
+        materials. The software underlying Connexions is called <link url="http://rhaptos.org/">Rhaptos</link> and was initially developed by the Connexions project specifically for Connexions.
+      </para>
+
+      <para id="overview2">From its inception, Connexions was designed to allow the 
+        collaborative development and free availability of material. 
+        Instructors and authors can modify this material for any 
+        educational purpose. Connexions offers free and open source software 
+        tools to help students, instructors, and authors manage these 
+        information assets for sharing and advancing knowledge to 
+        benefit the global educational community. All of this is 
+        accomplished through the use of the 
+        <link url="http://creativecommons.org/">Creative 
+          Commons</link> <link url="http://creativecommons.org/licenses/by/3.0/">Attribution license</link>.
+      </para>
+
+      <para id="overview3">There are several general categories of Connexions users: 
+        <list id="cnxuserlist"><item>Students - who use Connexions to access information on-line, 
+            to prepare for their classes.</item>
+          <item>Authors - who enter content into Connexions in document 
+            files called <term>modules</term>.</item>
+          <item>Instructors - who build <term>collections</term>, which are documents created 
+            by linking related modules together in a specific order.</item>
+          <item>Organizations - who endorse quality content, or highlight content affiliated with their organization, in a post-publication vetting system called <term>lenses</term>.</item>
+        </list>
+An individual or organization may, of course, fall into more than one of these categories.</para>
+
+      
+
+    </section>
+
+    <section id="cnx_home_section">
+      <title>The Connexions Home Page</title>
+
+      <para id="cnx_home_intro">The <link target-id="cnx-home-figure">Connexions home page</link> is 
+        the starting point for your use of Connexions. It contains the 
+        following items:
+
+        <list id="home_list"><item>
+            <link target-id="tabsection">Home, Content, Lenses, About Us, Help, and MyCNX tabs</link>
+          </item>
+          <item>
+            <link target-id="breadcrumbsection">Breadcrumb Navigation Bar</link>
+          </item>
+          <item>
+            <link target-id="searchsection">Search Box and Quick Links</link>
+          </item>
+          <item>
+            <link target-id="loginsection">My Account and Login Sidebar</link>
+          </item>
+          <item>
+            <link target-id="featuredsection">Featured Content</link>
+          </item>
+          <item>
+            <link target-id="findsection">Find Content</link>
+          </item>
+          <item>
+            <link target-id="createsection">Create Content</link>
+          </item>
+          <item>
+            <link target-id="spotlightsection">Spotlight Sidebar</link>
+          </item>
+          <item>
+            <link target-id="whatsnewsection">Connexions News Sidebar</link>
+          </item>
+
+        </list>
+
+        Some of these items also appear on the other Connexions web pages. 
+
+        <figure id="cnx-home-figure"><media id="eip-id16410948" display="block" alt="CNX homepage.">
+            <image mime-type="image/jpeg" src="/content/m19610/latest/homepage-notloggedin.jpg"/>
+          </media>
+          
+        <caption>Connexions home page.</caption></figure>
+
+      </para>
+
+      <section id="tabsection">
+        <title>Home, Content, Lenses, About Us, Help, and MyCNX Tabs</title>
+
+        <para id="tabpara1">On the upper left of the Connexions home page are tabs 
+          labeled <code display="inline">Home</code>, <code display="inline">Content</code>, <code display="inline">Lenses</code>, <code display="inline">About Us</code>, <code display="inline">Help</code>, and <code display="inline">MyCNX</code>. Clicking on 
+          these tabs display the following Connexions pages:
+
+          <list id="tablist"><item>
+              <link url="/">Home</link> 
+              returns to the Connexions home page.</item>
+            <item>
+              <link url="/content/">Content</link> 
+              takes you to the Content landing page, where you can <link document="m37430" target-id="search">search</link>
+              for modules and collections of interest or <link document="m37430" target-id="browse">browse</link> the repository
+              by subject, author, popularity and more. </item>
+            <item>
+              <link url="/lenses/">Lenses</link> 
+              is a portal to all user and organization-created <link url="/help/viewing/lenses">lenses</link>.</item>
+            <item>
+              <link url="/aboutus/">About</link> 
+              displays the "About Us" page that contains a general description 
+              of Connexions and links to more detailed information about 
+              Connexions, how it works, ways to get involved, the people behind it, and a list 
+              of contacts.</item>
+            <item><link url="/help/">Help</link> 
+              displays the "Help" page that contains links to installation, 
+              reference, and other information to answer your questions 
+              about Connexions.</item>
+            <item>
+              <link url="/mycnx/">MyCNX</link> 
+              displays your member dashboard if you are signed in. This
+              page includes links to your <link document="m10885" target-id="cnxworkareas">Work Areas</link>,
+              your lenses, and content you've recently visited. </item>
+          </list>
+
+        </para>
+
+      </section>
+
+      <section id="breadcrumbsection">
+        <title>Breadcrumb Navigation Bar</title>
+
+        <para id="breadpara1">The <code display="inline">You are here</code> <link target-id="breadcrumb-fig">breadcrumb navigation bar</link> 
+          is located just below the <link target-id="tabsection">main site
+          tabs</link>. This navigation tool is a breadcrumb trail of the Connexions 
+          pages you have displayed as you have drilled into Connexions to get 
+          to the current page. By clicking on any point within the breadcrumb 
+          trail you can return to that page. 
+
+          <figure id="breadcrumb-fig"><media id="eip-id16526525" display="block" alt="Breadcrumb navigation bar.">
+              <image mime-type="image/jpeg" src="/content/m19610/latest/homepage-breadcrumb-inmodule.jpg"/>
+            </media>
+            
+          <caption>Breadcrumb navigation bar</caption></figure>
+
+        </para>
+
+      </section>
+
+      <section id="searchsection"><title>Search and Quick Links</title><para id="searchpara1">You can search the <link url="/content">repository</link> for a specific module or a 
+          collection using the <code>Search</code> button and text box in the 
+          upper right of the Connexions home page. Type in a name, keyword, 
+          collection title, module title, text string, or object ID in the <link target-id="search-nli-fig">Search 
+          text box</link> and click <code>Search</code>. Connexions will display a 
+          list of all the content that matches your entry. To view a 
+          module or collection, click on its title. 
+        </para>
+
+        <para id="eip-535">Above the search box is a toolbar with some quick links for your convenience.
+          These links vary, depending on whether you are logged into the system or not.
+        </para>
+
+
+
+          <figure id="search-nli-fig"><media id="eip-id9433094" display="block" alt="Search box while not logged in.">
+              <image mime-type="image/jpeg" src="/content/m19610/latest/homepage-search-notloggedin.jpg"/>
+            </media>
+             
+          <caption>Personal toolbar before login</caption></figure>
+
+
+
+        <para id="eip-881">If you have a Connexions account and are logged into 
+          the system, you can perform the following actions by 
+          clicking on the links in this 
+          <link target-id="search-li-fig">toolbar</link>:
+
+          <list id="search-links-list"><item><link document="m37412" target-id="loginout">Log in/out</link> of the system</item>
+            <item><link url="/aboutus/contact">Contact</link> Connexions</item>
+            <item><link document="m11836">Report a bug</link></item>
+            <item><link url="/aboutus/cnx_donate">Support</link> Connexions through a tax-deductible donation</item></list>
+
+          <figure id="search-li-fig">
+            <media id="eip-id11977347" display="block" alt="Search box while logged in.">
+              <image mime-type="image/jpeg" src="/content/m19610/latest/homepage-search-loggedin.jpg"/>
+            </media>
+            <caption>Personal toolbar after login</caption>
+          </figure>
+        </para>
+
+      </section>
+
+      <section id="loginsection">
+        <title>My Account and Login Sidebar</title>
+        <para id="loginpara1">On the right side of the Connexions homepage is 
+          the <link target-id="myaccount-fig">My Account</link> sidebar. Its display depends on whether you are logged in 
+          or not. 
+
+          <figure id="myaccount-fig" orient="horizontal"><subfigure id="subfig1">
+              <media id="eip-id16497022" display="block" alt="My account.">
+                <image mime-type="image/jpeg" src="/content/m19610/latest/homepage-myaccount-notloggedin.jpg"/>
+              </media> 
+            </subfigure>
+            <subfigure id="subfig2">
+              <media id="eip-id16352906" display="block" alt="My account.">
+                <image mime-type="image/jpeg" src="/content/m19610/latest/homepage-myaccount-loggedin.jpg"/>
+              </media> 
+            </subfigure>
+            
+          <caption>My Accounts sidebar</caption></figure>
+        </para>
+
+        <para id="eip-932">The image on the left is displayed if you are not 
+          logged into Connexions or do not yet have an account. If you have a 
+          Connexions account, you can log into the system using this sidebar. In 
+          addition, there is      a link to the page for requesting a new Connexions <link document="m37412" target-id="createaccoutsection">account</link>, and a link to <link document="m37412" target-id="requestpasswordsection">reset your password</link> (if you forgot it).
+        </para>
+        
+        <para id="eip-480">The 
+          image on the right is displayed if you are logged into Connexions. It 
+          features links to your <link document="m10885"><term>MyCNX</term> 
+          dashboard</link>, a link to change your account settings, and a link to 
+          modules that you have marked as your favorites. If you have any pending 
+          role requests or suggested edits, these will also be displayed in the My 
+          Account box.
+        </para> 
+
+      </section>
+
+      <section id="featuredsection"><title>Featured Content</title><para id="eip-55">The <link target-id="homePageFeaturedContent">Featured Content</link> portal is located on the left side of the home page. It is used to showcase Connexions' most popular and outstanding content, ranging from math and science collections to academic lenses.</para>
+
+<figure id="homePageFeaturedContent"><media id="homePageFeaturedContent.png" alt="Featured Content." display="block">
+  <image src="/content/m19610/latest/homePageFeaturedContent.png" mime-type="image/png" width="350"/>
+</media>
+
+<caption>Featured Content.</caption></figure></section><section id="findsection"><title>Find Content</title><para id="eip-809">You can start browsing Connexions' modules and collections from the home page by using the <link target-id="homePageFindContent">Find Content</link> portal. The <code display="inline">Search Content</code> box is used to search for keywords related to the content you would like to find.</para>
+
+<figure id="homePageFindContent"><media id="homePageFindContent.png" alt="Find content" display="block">
+<image src="/content/m19610/latest/homePageFindContent.png" mime-type="image/png" width="400"/>
+</media>
+
+<caption>Find content portal.</caption></figure>
+
+<para id="eip-579">There are also several links in the Find Content portal that will point you toward interesting Connexions content. First, place your mouse over the way you wish to browse the repository -- either by Subject, Language, Popularity, or Title, etc. This will change the list of links on the right. Click on a link to begin browsing that particular selection of Connexions content.</para></section><section id="createsection"><title>Create Content</title><para id="eip-857">It's easy to get started creating content on Connexions. The Create Content portal, located just below the Find Content portal, contains links to help you begin authoring your own modules and collections.</para></section><section id="spotlightsection">
+        <title>Spotlight Sidebar</title>
+        <para id="spotpara1">The <link target-id="spotlight-fig">Spotlight</link> sidebar features authors and their content, 
+          feedback from Connexions users, and events related to Connexions. 
+        </para> 
+        <figure id="spotlight-fig"><subfigure id="eip-id1169483508232">
+<media id="eip-id16879618" display="block" alt="Screenshot.">
+            <image mime-type="image/jpeg" src="/content/m19610/latest/homepage-spotlight.jpg"/>
+          </media>
+</subfigure>
+<subfigure id="eip-id1169481075910">
+<media id="spotlight2" display="block" alt="Screenshot.">
+            <image mime-type="image/png" src="/content/m19610/latest/homePageSpotlight.png" width="210"/>
+          </media>
+          </subfigure><caption>The Spotlight sidebar</caption></figure>
+      </section>
+
+
+
+      <section id="whatsnewsection">
+        <title>News Sidebar</title>
+        <para id="whatsnewpara1">This sidebar contains links to <link url="/news/">news items</link> about the latest 
+          developments with Connexions. This includes updates to the site and 
+          outside publications that feature Connexions.
+        </para> 
+
+
+      </section>
+
+
+
+    </section>
+
+
+  </content>
+
+</document>

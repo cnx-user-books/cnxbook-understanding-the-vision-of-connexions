@@ -1,0 +1,63 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Why You should Create a Personal Connexions Account</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33937</md:content-id>
+  <md:title>Why You should Create a Personal Connexions Account</md:title>
+  <md:abstract>The several reasons (saving your place as you read a collection, rating modules, creating lenses and building content) for having a Connexions accout are highlighted.  Included are directions to general training on how to understand and use the Connexions web site and these features.</md:abstract>
+  <md:uuid>11b7d7b9-cf7a-4152-81f1-697db9cb0bdc</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/lenses/kbusbee/cnx-training" strength="3">Busbee's Connexions Training</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1167415322301">
+      <title>Several Good Reasons</title>
+      <para id="id1167411582154">With a Connexions account you can:</para>
+      <list id="id1167412723906" list-type="bulleted">
+        <item>Provide feedback to authors and other users by <emphasis effect="bold">rating modules</emphasis> – This feedback from all users (other authors, students using textbook collections, etc.) helps authors decide which modules need improving and helps other users in evaluating the quality of respository content.</item>
+        <item>Have your own “My Favorites” <emphasis effect="bold">lens</emphasis> and make other “Member List” <emphasis effect="bold">lenses</emphasis><list id="id1167411662755" list-type="bulleted"><item><emphasis effect="bold">Save your place</emphasis> when reading through a collection is a feature of the “My Favorites” lens</item><item>You can make yourown private “Member List” lenses to create the ability for you to <emphasis effect="bold">focus on part of the repository</emphasis></item></list></item>
+        <item>I<emphasis effect="bold">mprove the quality of instructional materials and scholarly works</emphasis> available to the world via the Internet – free 24/7<list id="id1167407102704" list-type="bulleted"><item><emphasis effect="bold">Contribute</emphasis> materials that you author to the Connexions repository</item><item><emphasis effect="bold">Remix or change</emphasis> (customize) materials provided by others that are in the Connexions repository</item><item><emphasis effect="bold">Build collections</emphasis> (a group of modules) that specifically serve your students or audience from modules that you either create, improve or use without changing</item></list></item>
+      </list>
+      <para id="id1167415316853">Often being an author, is over emphasized and pushed as the number one reason to get a Connexions account. Having authors contribute to the repository is important; however usage of the repository by users is equally important. <emphasis effect="bold">Increasing quality content</emphasis> in the Connexions repository goes <emphasis effect="bold">hand in hand</emphasis> with <emphasis effect="bold">increased usage of that content</emphasis>. It’s like the Chinese “Yin &amp; Yang”, both are important. We encourage all to create an personal account. </para>
+      <para id="id7562759">
+        <figure id="id1167413210463">
+          <media id="id1167413210463_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics1-fce3.jpg" id="id1167413210463__onlineimage" height="150" width="200"/>
+          </media>
+          <caption>Yin &amp; Yang</caption>
+        </figure>
+      </para>
+    </section>
+    <section id="id1167412542277">
+      <title>Available Training</title>
+      <para id="id1167411057406">A link is provided (in the box at the upper right corner of this module’s page) to the “Busbee’s Connexions Training” lens. It contains six collections that cover:</para>
+      <list id="id8459692" list-type="enumerated" number-style="arabic">
+        <item>Understanding the Vision of Connexions</item>
+        <item>How to Search and Browse the Connexions Web Site (includes rating modules)</item>
+        <item>Effectively Using and Creating Connexions Lenses</item>
+        <item>Authoring Connexions Modules using Microsoft Word Documents</item>
+        <item>Ideas and Tools for Improving Connexions Modules and Collections</item>
+        <item>Appendix Materials for a Connexions Collection used as a College Course</item>
+      </list>
+      <para id="id1167412992953">Each collection consists of several modules. The items appear alphabetically within the lens; however the “Lens Comments” for each item has its item position number similar to the list above. <emphasis effect="bold">The first four items provide a natural progression for training.</emphasis></para>
+      <para id="id1167412910414">You might want to bookmark the URL to the lens in your browser. The link is: <link url="http://cnx.org/lenses/kbusbee/cnx-training">http://cnx.org/lenses/kbusbee/cnx-training</link></para>
+    </section>
+    <section id="id1167413461585">
+      <title>Connexions Help</title>
+      <para id="id1167416443019">Don’t hesitage to use the “Help” tab on the connexions home page at: <link url="http://cnx.org/">http://cnx.org/</link></para>
+      <para id="id1167407961918">It is organized differently than the above training collections, but contains ample information on how to use the Connexions Project. Don’t be afraid to click on something. Some of the menu items on the left expand as you click on them.</para>
+      <figure id="id8551074">
+        <media id="id8551074_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-2be6.jpg" id="id8551074__onlineimage" height="450" width="600"/>
+        </media>
+        <caption>Connexions Help Tab</caption>
+      </figure>
+    </section>
+  </content>
+</document>
